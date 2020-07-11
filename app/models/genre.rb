@@ -17,4 +17,3 @@ class Genre < ActiveRecord::Base
     # return an array of strings containing every musician's name
   end
 end
-``
